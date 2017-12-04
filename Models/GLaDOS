@@ -1,0 +1,811 @@
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 10,10,14,16,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,10,12,16,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,10,10,16,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,12,14,16,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,12,12,16,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,12,10,16,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,12,8,16,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 6,10,10,10,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,10,4,10,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,10,0,12,16,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,10,0,14,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,12,10,10,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,12,4,10,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,12,0,14,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,14,14,16,16,16,texture = "opencomputers:White", tint = 0x777777 },
+    { 14,14,0,16,16,2,texture = "opencomputers:White", tint = 0x777777 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 6,10,0,10,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,10,6,12,16,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,10,4,12,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,10,10,14,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,12,0,10,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,12,6,12,16,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,12,12,14,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,14,0,16,16,2,texture = "opencomputers:White", tint = 0x777777 },
+    { 14,14,14,16,16,16,texture = "opencomputers:White", tint = 0x777777 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 10,10,0,16,16,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,10,2,16,16,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,10,4,16,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,12,0,16,16,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,12,2,16,16,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,12,4,16,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,12,6,16,16,8,texture = "opencomputers:White", tint = 0xeeeeee },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 12,9,8,14,12,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,9,6,16,12,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,10,6,14,16,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,10,8,16,16,12,texture = "opencomputers:White", tint = 0x444444 },
+    { 14,12,6,16,16,12,texture = "opencomputers:White", tint = 0x444444 },
+    { 15,13,5,16,16,6,texture = "opencomputers:White", tint = 0x111111 },
+    { 12,14,8,16,16,10,texture = "opencomputers:White", tint = 0x444444 },
+    { 12,14,10,14,16,12,texture = "opencomputers:White", tint = 0x777777 },
+    { 15,15,12,16,16,16,texture = "opencomputers:White", tint = 0x777777 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 12,4,12,14,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,4,12,16,6,16,texture = "opencomputers:White", tint = 0x444444 },
+    { 10,6,12,16,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,6,10,16,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,8,10,16,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,8,8,16,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,10,12,16,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,10,10,16,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,10,8,16,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,10,6,16,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,12,6,10,14,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,12,2,16,16,4,texture = "opencomputers:White", tint = 0x222222 },
+    { 10,12,4,12,14,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,12,6,16,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,12,4,16,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 14,12,0,16,14,2,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 6,14,4,10,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,14,4,16,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,14,0,14,16,2,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 14,14,0,16,16,16,texture = "opencomputers:White", tint = 0x222222 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 12,4,0,16,12,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,4,4,16,12,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,6,0,16,12,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,6,4,16,12,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,6,8,16,12,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,8,4,16,12,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,8,8,16,12,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,8,10,16,12,14,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,10,0,16,12,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,10,4,16,12,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,10,8,16,12,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,10,10,16,12,14,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,10,14,16,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,12,0,16,14,10,texture = "opencomputers:White", tint = 0x222222 },
+    { 10,12,10,12,14,14,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,12,10,16,14,14,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,12,14,14,14,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,12,14,16,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 14,14,10,16,16,16,texture = "opencomputers:White", tint = 0x222222 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 14,12,0,16,14,2,texture = "opencomputers:White", tint = 0xeeeeee },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 12,0,6,14,4,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,0,8,16,2,12,texture = "opencomputers:White", tint = 0x444444 },
+    { 14,0,6,16,2,12,texture = "opencomputers:White", tint = 0x444444 },
+    { 15,0,5,16,1,6,texture = "opencomputers:White", tint = 0x111111 },
+    { 15,0,12,16,1,16,texture = "opencomputers:White", tint = 0x777777 },
+    { 12,2,8,14,5,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,2,6,16,5,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,2,8,16,4,12,texture = "opencomputers:White", tint = 0x444444 },
+    { 12,4,7,16,5,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,5,8,16,6,11,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,5,7,16,6,12,texture = "opencomputers:White", tint = 0xeeeeee },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 6,0,4,10,2,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,0,10,10,4,16,texture = "opencomputers:White", tint = 0x555555 },
+    { 10,0,2,16,4,14,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,0,0,14,2,2,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 14,0,0,16,2,14,texture = "opencomputers:White", tint = 0x222222 },
+    { 14,2,0,16,4,2,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 10,4,2,16,6,10,texture = "opencomputers:White", tint = 0x222222 },
+    { 10,6,4,16,8,10,texture = "opencomputers:White", tint = 0x222222 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 8,0,0,10,6,2,texture = "opencomputers:White", tint = 0x555555 },
+    { 14,0,10,16,8,12,texture = "opencomputers:White", tint = 0x222222 },
+    { 14,0,12,16,2,14,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 14,0,14,16,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 8,2,2,10,8,4,texture = "opencomputers:White", tint = 0x555555 },
+    { 14,2,12,16,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 8,4,4,10,10,6,texture = "opencomputers:White", tint = 0x555555 },
+    { 8,6,6,10,10,14,texture = "opencomputers:White", tint = 0x555555 },
+    { 10,6,12,12,10,16,texture = "opencomputers:White", tint = 0x555555 },
+    { 12,6,12,16,14,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 10,10,12,12,12,16,texture = "opencomputers:White", tint = 0x888888 },
+    { 12,10,10,16,14,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 10,12,10,12,14,12,texture = "opencomputers:White", tint = 0x888888 },
+    { 10,14,8,14,16,10,texture = "opencomputers:White", tint = 0x888888 },
+    { 12,14,10,16,16,14,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,14,14,14,16,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 14,14,8,16,16,10,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 14,2,0,16,16,2,texture = "opencomputers:White", tint = 0x222222 },
+    { 14,2,2,16,10,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,4,2,16,10,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,6,0,16,16,2,texture = "opencomputers:White", tint = 0x222222 },
+    { 14,6,4,16,10,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,10,2,12,12,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,10,0,12,12,2,texture = "opencomputers:White", tint = 0x888888 },
+    { 12,10,2,16,16,4,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,10,4,14,12,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,10,4,16,16,6,texture = "opencomputers:White", tint = 0x222222 },
+    { 14,10,6,16,16,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,12,4,12,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,12,2,12,14,4,texture = "opencomputers:White", tint = 0x888888 },
+    { 12,12,4,16,16,6,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,12,6,16,16,8,texture = "opencomputers:White", tint = 0xeeeeee },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 10,0,8,12,4,10,texture = "opencomputers:White", tint = 0x888888 },
+    { 12,0,8,14,8,10,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 12,0,10,16,8,14,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,0,14,14,2,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 14,0,14,16,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,2,14,16,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 10,4,10,12,6,12,texture = "opencomputers:White", tint = 0x888888 },
+    { 10,6,12,12,8,16,texture = "opencomputers:White", tint = 0x888888 },
+    { 10,8,14,16,12,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,8,10,14,10,12,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 12,8,12,16,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,10,10,16,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 10,12,12,16,16,14,texture = "opencomputers:White", tint = 0x222222 },
+    { 10,14,10,16,16,14,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,14,8,16,16,16,texture = "opencomputers:White", tint = 0x222222 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 8,0,4,12,6,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,0,0,16,2,6,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,0,6,16,6,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,2,0,14,4,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 12,2,2,16,6,6,texture = "opencomputers:White", tint = 0x222222 },
+    { 14,2,0,16,6,6,texture = "opencomputers:White", tint = 0x222222 },
+    { 10,4,2,12,6,4,texture = "opencomputers:White", tint = 0x888888 },
+    { 12,4,0,16,12,2,texture = "opencomputers:White", tint = 0x222222 },
+    { 8,6,2,16,8,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,6,0,12,8,2,texture = "opencomputers:White", tint = 0x888888 },
+    { 12,6,4,16,8,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,8,2,16,12,4,texture = "opencomputers:White", tint = 0xeeeeee },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,10,10,6,16,14,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,10,8,16,16,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,10,10,12,16,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,10,6,16,16,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,12,8,6,16,14,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,12,6,16,16,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,12,4,16,16,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,14,14,2,16,16,texture = "opencomputers:White", tint = 0x777777 },
+    { 14,14,10,16,16,16,texture = "opencomputers:White", tint = 0x777777 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 6,10,10,16,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 8,10,8,16,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 10,10,6,16,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,12,0,2,16,2,texture = "opencomputers:White", tint = 0x777777 },
+    { 0,12,14,6,16,16,texture = "opencomputers:White", tint = 0x777777 },
+    { 2,12,2,4,16,4,texture = "opencomputers:White", tint = 0x777777 },
+    { 4,12,4,6,16,6,texture = "opencomputers:White", tint = 0x777777 },
+    { 6,12,6,8,16,8,texture = "opencomputers:White", tint = 0x777777 },
+    { 14,12,0,16,16,6,texture = "opencomputers:White", tint = 0x777777 },
+    { 0,14,2,6,16,4,texture = "opencomputers:White", tint = 0x777777 },
+    { 2,14,0,4,16,6,texture = "opencomputers:White", tint = 0x777777 },
+    { 4,14,6,10,16,8,texture = "opencomputers:White", tint = 0x777777 },
+    { 6,14,4,8,16,10,texture = "opencomputers:White", tint = 0x777777 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 10,0,10,16,6,12,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,0,6,16,16,8,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,0,8,16,12,10,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,0,12,16,6,14,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,0,14,16,2,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 10,2,8,16,12,10,texture = "opencomputers:White", tint = 0x222222 },
+    { 10,6,6,14,16,10,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,6,4,16,16,8,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,6,10,16,10,12,texture = "opencomputers:White", tint = 0x222222 },
+    { 10,8,4,16,16,8,texture = "opencomputers:White", tint = 0x222222 },
+    { 12,8,2,16,16,8,texture = "opencomputers:White", tint = 0x222222 },
+    { 6,10,0,16,16,6,texture = "opencomputers:White", tint = 0x222222 },
+    { 8,10,6,16,16,8,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,12,0,6,16,2,texture = "opencomputers:White", tint = 0x777777 },
+    { 0,12,14,2,16,16,texture = "opencomputers:White", tint = 0x777777 },
+    { 2,12,12,4,16,14,texture = "opencomputers:White", tint = 0x777777 },
+    { 4,12,10,6,16,12,texture = "opencomputers:White", tint = 0x777777 },
+    { 6,12,8,8,16,10,texture = "opencomputers:White", tint = 0x777777 },
+    { 14,12,8,16,14,16,texture = "opencomputers:White", tint = 0x777777 },
+    { 0,14,12,4,16,16,texture = "opencomputers:White", tint = 0x777777 },
+    { 2,14,10,4,16,16,texture = "opencomputers:White", tint = 0x777777 },
+    { 4,14,8,6,16,14,texture = "opencomputers:White", tint = 0x777777 },
+    { 6,14,6,8,16,12,texture = "opencomputers:White", tint = 0x777777 },
+    { 8,14,8,10,16,10,texture = "opencomputers:White", tint = 0x777777 },
+    { 14,14,8,16,16,10,texture = "opencomputers:White", tint = 0x222222 },
+    { 14,14,10,16,16,16,texture = "opencomputers:White", tint = 0x777777 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,10,2,6,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,10,6,16,16,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,10,4,12,16,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,10,8,16,16,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,12,6,16,16,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,12,8,16,16,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,12,10,16,16,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,14,0,2,16,2,texture = "opencomputers:White", tint = 0x777777 },
+    { 14,14,0,16,16,6,texture = "opencomputers:White", tint = 0x777777 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,9,6,2,12,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,9,8,4,12,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,10,8,2,16,12,texture = "opencomputers:White", tint = 0x444444 },
+    { 2,10,6,4,16,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,12,6,2,16,12,texture = "opencomputers:White", tint = 0x444444 },
+    { 0,13,5,2,14,6,texture = "opencomputers:White", tint = 0x111111 },
+    { 0,14,5,1,16,6,texture = "opencomputers:White", tint = 0xff6600 },
+    { 1,14,5,2,16,6,texture = "opencomputers:White", tint = 0x111111 },
+    { 2,14,8,4,16,10,texture = "opencomputers:White", tint = 0x444444 },
+    { 2,14,10,4,16,12,texture = "opencomputers:White", tint = 0x777777 },
+    { 0,15,12,1,16,16,texture = "opencomputers:White", tint = 0x777777 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,4,12,2,6,16,texture = "opencomputers:White", tint = 0x444444 },
+    { 2,4,12,4,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,6,10,4,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,6,12,6,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,8,8,4,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,8,10,6,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,10,6,4,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,10,8,6,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,10,10,8,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,10,12,10,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,12,0,2,14,2,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 0,12,2,4,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 4,12,2,6,16,4,texture = "opencomputers:White", tint = 0x222222 },
+    { 4,12,4,6,14,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,12,6,6,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 6,12,6,10,14,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,14,0,2,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 2,14,0,4,16,2,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 4,14,4,6,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 6,14,4,10,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,14,6,8,16,8,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,4,0,4,12,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,4,4,2,12,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,6,6,2,12,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,6,4,4,12,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,6,0,6,12,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,8,10,2,12,14,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,8,8,4,12,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,8,4,6,12,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,10,14,2,12,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,10,10,4,12,14,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,10,8,6,12,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,10,0,10,12,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,10,4,8,12,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,12,0,6,14,10,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,12,10,2,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 2,12,10,4,14,14,texture = "opencomputers:White", tint = 0x222222 },
+    { 2,12,14,4,14,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,12,10,6,14,14,texture = "opencomputers:White", tint = 0xeeeeee },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,12,0,2,14,2,texture = "opencomputers:White", tint = 0xeeeeee },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,0,5,2,1,6,texture = "opencomputers:White", tint = 0x111111 },
+    { 0,0,6,2,2,12,texture = "opencomputers:White", tint = 0x444444 },
+    { 0,0,12,1,1,16,texture = "opencomputers:White", tint = 0x777777 },
+    { 2,0,6,4,4,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,0,8,4,2,12,texture = "opencomputers:White", tint = 0x444444 },
+    { 0,2,6,4,4,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,2,8,2,4,12,texture = "opencomputers:White", tint = 0x444444 },
+    { 2,2,8,4,5,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,4,6,2,5,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,4,7,4,5,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,5,7,2,6,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,5,8,4,6,11,texture = "opencomputers:White", tint = 0xeeeeee },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,0,0,2,2,14,texture = "opencomputers:White", tint = 0x222222 },
+    { 2,0,0,4,2,2,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 2,0,2,6,4,14,texture = "opencomputers:White", tint = 0x222222 },
+    { 6,0,4,10,2,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,0,8,8,4,10,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 6,0,10,8,4,16,texture = "opencomputers:White", tint = 0x555555 },
+    { 0,2,0,2,4,2,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 0,2,2,6,6,10,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,2,10,6,4,14,texture = "opencomputers:White", tint = 0x222222 },
+    { 6,4,10,8,6,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 0,6,4,6,8,10,texture = "opencomputers:White", tint = 0x222222 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,0,10,2,8,12,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,0,12,2,2,14,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 0,0,14,2,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 6,0,0,8,6,2,texture = "opencomputers:White", tint = 0x555555 },
+    { 0,2,12,2,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 6,2,2,8,8,4,texture = "opencomputers:White", tint = 0x555555 },
+    { 6,4,4,8,10,6,texture = "opencomputers:White", tint = 0x555555 },
+    { 2,6,12,4,14,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 4,6,12,6,10,16,texture = "opencomputers:White", tint = 0x555555 },
+    { 6,6,6,8,10,14,texture = "opencomputers:White", tint = 0x555555 },
+    { 0,10,10,4,14,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 4,10,12,6,12,16,texture = "opencomputers:White", tint = 0x888888 },
+    { 4,12,10,6,14,12,texture = "opencomputers:White", tint = 0x888888 },
+    { 0,14,8,2,16,10,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 0,14,10,4,16,14,texture = "opencomputers:White", tint = 0x222222 },
+    { 2,14,8,6,16,10,texture = "opencomputers:White", tint = 0x888888 },
+    { 2,14,14,4,16,16,texture = "opencomputers:White", tint = 0xee0000 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,2,0,2,16,2,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,2,2,2,10,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,4,2,4,10,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,6,4,2,10,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,6,0,4,16,2,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,10,2,2,16,6,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,10,6,2,16,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,10,2,4,16,4,texture = "opencomputers:White", tint = 0x222222 },
+    { 2,10,4,4,12,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,10,0,6,12,2,texture = "opencomputers:White", tint = 0x888888 },
+    { 4,10,2,8,12,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,12,4,4,16,6,texture = "opencomputers:White", tint = 0x222222 },
+    { 2,12,6,4,16,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,12,2,6,14,4,texture = "opencomputers:White", tint = 0x888888 },
+    { 4,12,4,8,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,0,10,4,8,14,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,0,14,2,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 2,0,8,4,8,10,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 2,0,14,4,2,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 4,0,8,6,4,10,texture = "opencomputers:White", tint = 0x888888 },
+    { 2,2,14,4,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 4,4,10,6,6,12,texture = "opencomputers:White", tint = 0x888888 },
+    { 4,6,12,6,8,16,texture = "opencomputers:White", tint = 0x888888 },
+    { 0,8,12,4,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 2,8,10,4,10,12,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 4,8,14,6,12,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,10,10,4,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 4,10,10,6,14,12,texture = "opencomputers:White", tint = 0xff6600 },
+    { 4,12,12,6,16,14,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,14,8,4,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 4,14,8,6,16,10,texture = "opencomputers:White", tint = 0xff6600 },
+    { 4,14,10,6,16,14,texture = "opencomputers:White", tint = 0x222222 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,0,0,2,6,6,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,0,6,4,6,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,0,0,4,2,6,texture = "opencomputers:White", tint = 0x222222 },
+    { 4,0,4,8,6,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,2,0,4,4,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 2,2,2,4,6,6,texture = "opencomputers:White", tint = 0x222222 },
+    { 2,4,0,4,12,2,texture = "opencomputers:White", tint = 0x222222 },
+    { 4,4,2,6,6,4,texture = "opencomputers:White", tint = 0x888888 },
+    { 0,6,0,4,12,2,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,6,2,4,12,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,6,4,4,8,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,6,0,6,8,2,texture = "opencomputers:White", tint = 0x888888 },
+    { 4,6,2,8,8,4,texture = "opencomputers:White", tint = 0xeeeeee },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,10,6,6,16,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,10,10,16,16,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,10,8,12,16,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,10,12,16,16,14,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,12,4,6,16,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,12,6,12,16,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,12,8,16,16,14,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,14,10,2,16,16,texture = "opencomputers:White", tint = 0x777777 },
+    { 14,14,14,16,16,16,texture = "opencomputers:White", tint = 0x777777 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,10,6,6,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 6,10,8,8,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 8,10,10,10,16,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,12,0,2,16,6,texture = "opencomputers:White", tint = 0x777777 },
+    { 8,12,6,10,16,8,texture = "opencomputers:White", tint = 0x777777 },
+    { 10,12,4,12,16,6,texture = "opencomputers:White", tint = 0x777777 },
+    { 10,12,14,16,16,16,texture = "opencomputers:White", tint = 0x777777 },
+    { 12,12,2,14,16,4,texture = "opencomputers:White", tint = 0x777777 },
+    { 14,12,0,16,16,2,texture = "opencomputers:White", tint = 0x777777 },
+    { 6,14,6,12,16,8,texture = "opencomputers:White", tint = 0x777777 },
+    { 8,14,4,10,16,10,texture = "opencomputers:White", tint = 0x777777 },
+    { 10,14,2,12,16,8,texture = "opencomputers:White", tint = 0x777777 },
+    { 12,14,0,16,16,4,texture = "opencomputers:White", tint = 0x777777 },
+    { 12,14,4,14,16,6,texture = "opencomputers:White", tint = 0x777777 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,0,6,4,16,8,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,0,8,4,12,10,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,0,10,4,10,12,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,0,12,4,6,14,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,0,14,4,2,16,texture = "opencomputers:White", tint = 0x222222 },
+    { 4,0,8,6,2,10,texture = "opencomputers:White", tint = 0xff6600 },
+    { 4,0,10,6,6,12,texture = "opencomputers:White", tint = 0x222222 },
+    { 4,2,6,6,6,8,texture = "opencomputers:White", tint = 0xff6600 },
+    { 4,2,8,6,16,10,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,6,4,4,16,8,texture = "opencomputers:White", tint = 0x222222 },
+    { 4,6,6,6,16,10,texture = "opencomputers:White", tint = 0x222222 },
+    { 6,6,6,8,10,8,texture = "opencomputers:White", tint = 0xff6600 },
+    { 0,8,2,4,16,8,texture = "opencomputers:White", tint = 0x222222 },
+    { 4,8,4,6,16,10,texture = "opencomputers:White", tint = 0x222222 },
+    { 6,8,4,8,10,8,texture = "opencomputers:White", tint = 0xff6600 },
+    { 8,8,4,10,10,6,texture = "opencomputers:White", tint = 0xff6600 },
+    { 0,10,0,8,16,8,texture = "opencomputers:White", tint = 0x222222 },
+    { 8,10,0,10,16,6,texture = "opencomputers:White", tint = 0x222222 },
+    { 10,10,4,12,16,6,texture = "opencomputers:White", tint = 0xff6600 },
+    { 0,12,8,2,14,16,texture = "opencomputers:White", tint = 0x777777 },
+    { 2,12,8,6,16,10,texture = "opencomputers:White", tint = 0x222222 },
+    { 8,12,8,10,16,10,texture = "opencomputers:White", tint = 0x777777 },
+    { 10,12,0,16,16,2,texture = "opencomputers:White", tint = 0x777777 },
+    { 10,12,10,12,16,12,texture = "opencomputers:White", tint = 0x777777 },
+    { 12,12,12,14,16,14,texture = "opencomputers:White", tint = 0x777777 },
+    { 14,12,14,16,16,16,texture = "opencomputers:White", tint = 0x777777 },
+    { 0,14,8,6,16,10,texture = "opencomputers:White", tint = 0x222222 },
+    { 0,14,10,2,16,16,texture = "opencomputers:White", tint = 0x777777 },
+    { 6,14,8,12,16,10,texture = "opencomputers:White", tint = 0x777777 },
+    { 8,14,6,10,16,12,texture = "opencomputers:White", tint = 0x777777 },
+    { 10,14,12,16,16,14,texture = "opencomputers:White", tint = 0x777777 },
+    { 12,14,10,14,16,16,texture = "opencomputers:White", tint = 0x777777 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,10,6,6,16,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,10,4,16,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,10,6,12,16,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,10,2,16,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,12,10,6,16,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,12,8,12,16,10,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,12,6,16,16,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,14,0,2,16,6,texture = "opencomputers:White", tint = 0x777777 },
+    { 14,14,0,16,16,2,texture = "opencomputers:White", tint = 0x777777 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,10,10,2,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,10,12,4,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,10,14,6,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,12,8,2,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,12,10,4,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,12,12,6,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,12,14,8,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 2,10,0,6,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,10,6,8,16,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,10,12,10,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,10,10,10,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,12,0,8,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,12,4,10,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,12,10,12,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,14,0,2,16,2,texture = "opencomputers:White", tint = 0x777777 },
+    { 0,14,14,6,16,16,texture = "opencomputers:White", tint = 0x777777 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 2,10,10,6,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,10,4,6,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,10,0,8,16,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,10,0,10,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,12,12,8,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,12,6,10,16,12,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,12,0,12,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,14,0,6,16,2,texture = "opencomputers:White", tint = 0x777777 },
+    { 0,14,14,2,16,16,texture = "opencomputers:White", tint = 0x777777 },
+  }
+},
+
+{
+  label = "GLaDOS",
+  tooltip = "by OwnMinecraft",
+  shapes = {
+    { 0,10,0,2,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,10,0,4,16,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,10,0,6,16,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,12,6,2,16,8,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,12,4,4,16,6,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,12,2,6,16,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,12,0,8,16,2,texture = "opencomputers:White", tint = 0xeeeeee },
+  }
+}
