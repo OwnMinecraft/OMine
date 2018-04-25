@@ -54,4 +54,12 @@
     { 2,6,4,7,7,10,texture = "wool_colored_white", tint = 0x820041 },
     { 7,6,4,8,7,7,texture = "wool_colored_white", tint = 0x820041 },
     { 9,6,7,11,9,9,texture = "planks_oak", tint = 0x993300 },
-    { 11,7,7,13,9,9,texture = "planks_oak", tin
+    { 11,7,7,13,9,9,texture = "planks_oak", tint = 0x993300 },
+    { 6,8,3,15,14,4,texture = "wool_colored_white", tint = 0x820041 },
+    { 6,8,9,15,14,13,texture = "wool_colored_white", tint = 0x820041 },
+    { 13,8,7,14,10,9,texture = "planks_oak", tint = 0x993300 },
+    { 14,8,4,15,14,13,texture = "wool_colored_white", tint = 0x820041 },
+    { 12,9,7,14,10,9,texture = "planks_oak", tint = 0x993300 },
+    { 6,10,4,15,14,13,texture = "wool_colored_white", tint = 0x820041 },
+  }
+}
