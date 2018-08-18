@@ -275,6 +275,7 @@
 {
   label = "PinkCupboard",
   tooltip = "by OwnMinecraft",
+  emitRedstone = true,
   shapes = {
     { 0,0,15,1,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
     { 1,0,15,12,3,16,texture = "opencomputers:White", tint = 0xff9999 },
